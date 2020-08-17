@@ -9,4 +9,5 @@ Python 3.6.8
 # Description
 The Application Calculates the total number of pixels in the image and for each scale indicates the percentage of pixels with the scale color 
 The results are presented in percentage (%)
-1. App-Frame --> This file reads a thermal image and processes it by 8 defined scales, the results are saved inside the Frame folder
+1. App-Frame.py --> This file reads a thermal image and processes it by 8 defined scales, the results are saved inside the Frame folder
+2. App-Video.py --> This file takes the frames of a thermal video and processes each frame, it by 8 defined scales. The results are saved inside the Frame folder
